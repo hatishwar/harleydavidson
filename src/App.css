@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Dancing+Script:wght@400..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+#prenav{
+  background-color: black;
+  color:  white;
+  
+}
+
+#prenav a{
+  color: white;
+  
+}
+
+#imgflag{
+  max-width: 20px;
+}
+
+#separator{
+  padding: 20px;
+  font-weight: 900;
+  text-align: center;
+}
+
+/* debugging code */
+/* .col-2{
+  background-color: red;
+}
+
+.col-1{
+  background-color: blue;
+} */
+
+
+.links{
+  color:  black;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/* footer nav style */
+#footernav{
+  background-color: black;
+  color: white;
+}
+
+#fnlogo{
+  font-family: 'Bakbak One';
+  text-transform: uppercase;
+}
+
+#fnlogo h1 span{
+  color: orange;
+}
+
+
+.fnheads{
+  font-weight: 900;
+}
+
+#fnmid a{
+  text-decoration: none;
+  color: white;
+}
+
+.terms a{
+  text-decoration: none;
+  color: white;
+}
+
+/* footer nav last row */
+#fnlast select{
+  background-color: black;
+  color: white;
+  padding: 15px;
+  min-width: 80%;
+  border: 1px solid orange;
+}
+
+
+#nfsocial{
+  font-size: 30px;
+  text-align: center;
+}
